@@ -1,2 +1,3 @@
 https://thewarehouse.ai/ - list of ai companies that are active
 https://stability.ai/ - open source competitor of open.ai Dalle
+https://ai.facebook.com/blog/generative-ai-text-to-video/ - facebook text to video generator
