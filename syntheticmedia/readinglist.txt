@@ -1,1 +1,5 @@
-xxx
+Reading list urls:
+
+https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf
+
+https://www.sciencedirect.com/science/article/abs/pii/S0148296322008335
